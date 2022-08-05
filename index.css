@@ -1,5 +1,6 @@
 * {
 margin: 0;
+font-family: MochiyPopOne-Regular;
 }
 
 @font-face {
@@ -45,4 +46,30 @@ nav {
 height: 50px;
 margin-top: 25px;
 margin-left: 30px;
+}
+
+.slogan {
+display: flex;
+justify-content:center;
+width: 100%;
+align-items: center;
+background-image: url(./Imagen/Jupiter.jpg);
+}
+
+.imagenjd {
+    width: 30%;
+    border-radius: 10px;
+}
+
+button {
+    margin-top: 30px;
+    border-radius: 20px;
+    border-style: none;
+    width: 12em;
+    font-size: 20px;
+}
+
+.seccion1 {
+    border: solid; 
+
 }
